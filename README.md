@@ -11,26 +11,7 @@
 
 ## Алгоритм и блок-схема
 
-### Задание 1
-
-### Алгоритм
-
-1. Начало.
-2. Ввести значение переменной `t` — температуру воды.
-3. Проверить условие `t <= 0`.
-4. Если условие выполняется, вывести сообщение, что вода находится в состоянии «ЛЕД».
-5. Иначе проверить условие `t > 0 && t < 100`.
-6. Если условие выполняется, вывести сообщение, что вода находится в состоянии «ЖИДКОСТЬ».
-7. Иначе вывести сообщение, что вода находится в состоянии «ПАР».
-8. Конец.
-
-### Блок-схема
-
-<img width="832" height="832" alt="Диаграмма без названия drawio (1)" src="https://github.com/user-attachments/assets/0a708218-196e-4c7f-9fe7-610181580822" />
-[Ссылка на блок-схему](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#R%3Cmxfile%3E%3Cdiagram%20name%3D%22%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-1%22%20id%3D%22MCOqj_EnUu5ix6ne9RAr%22%3E7Vpbc5s4FP41nrYPySBxMTw6JO7uzGan3exMdx8VIxtajFgZN3Z%2B%2FeoKCLBrZ6Fhx%2BlMZXR0dOFcP50wscP17iNFeXxPIpxOoBXtJvbtBEJg2Rb74ZS9pLieLwkrmkSKqSI8JM9Yz1TUbRLhjcFYEJIWSW4SFyTL8KIwaIhS8mSyLUlq7pqjFW4RHhYobVO%2FJFERS6oPpxX9F5ysYr0z8AI5skaaWb3JJkYReaqR7LuJHVJCCvm03oU45cLTcpHz5gdGy4NRnBWnTLDs5Wd6tfj94%2F3nr88x%2BPLHHH27suUqOGpJoVpWkTZkSxf4yFqar9hr4fFlH1SX0CImK5Kh9K6i3lCyzSLMT2ixXsXzGyE5IwJG%2FIqLYq8MA20LwkhxsU7VqDIJRFe4OHI2KPm%2Bo3SrzlZqgJkuJmtc0D1joDhFRfLdFAZSNrQq%2BSoxswcl6TOkfkTINeGlKTNyLqSnOCnwQ46E9J%2BYn5kiYIaV41%2BzDXMUQyjGy3ppwVlzlBm7eP9suf3dLElWXG2EkGeMAfj5Tqyjx9nTSv2KhR5LAlNccCtai7ezafUcyNE7PYnJ6rG5EKPJQ2myODmmBd7VBNNWVFxzOl952FPloMDzJE2tYttKwCoMTa2BVOv26FBwxA7ljMqh4CkOJfyEPTIulKY4JSuK1uyNc0wTdgxMm2OfqoHzfXCZ7LDOZ90%2ByX2DtWDiCz%2B5EZSbO9E6XAcvcgavwxkCy3QGEBjOUCbb3vUy7dEbnBF7gzcqbwDwQsQOwKjk7pwShWhM1o%2FbTa9pPaf4cFZfonWSMk%2BfvQvRZoGiBDHee5KRd428H%2BR8zoKkhAoUYFviXxsEsMDEqWjNTyyzON9VsOqkLo70H3I6cM5P6vZgcSzo0aG8ETuUPyp%2FAt6FiB24o5K7d4lxTIUqzlcRZdvqWh0RkF2a%2Bg2AsCMAOiaQc3XAUwHQcd2BTAL2WSjwX8MV2Snp%2Fq9652%2B1mOjc7ozeXvVOdOBDCj3ZX8XUGaVoX2PISZIVm9rKnzihUv%2FUdw31T%2F1GBajBz8zjenpsBnuQZ6gMpXyZl9uOf0o4Gdvl7KyIVI8GiqERo5rDMmI0qi4ycE14MVPHLouuHt%2BzxUMZmcTPh87KTE6Zrpc%2FLPQ0loY8x4YieOmHwOne4P3Bks15WwLPljtxK5C%2F3RvWKPyqPBdXZVFYuvG5xHlX3pld0YainWtKyVxystau0V2pNlnPotWu7jVcivUZj22uI27m1TqgdmOHeop5jZcTOzfiQ7e1E7qtiX7t5EC082oXJYHyDCUPrFHmtV181XJNtN%2Fa0kIuK3nWxA0z8b%2Bumm4TCGVSHMz4PvzA%2BPpIuHY74ULbTLje1Ey4njXUjUNn9uNRk71fYca6rlC4KSj5hkMp%2FNuMZFiEwDRtkFCarDLWXbAdRVzlEkwWKJ2pgXUSRR3ZuB09y6KwckT4Io10KMQ7rg%2FHH0ofsM%2FCLmhr8iddRk6EKEq81rXjAKdn1AKm7rWJW3wHXgdHkQt0rOMzTOTSmm%2FDQ%2FPLY0uMp%2BY1jKUHEASOmMtYUFBMaPLMIAnSU1oBgRsVxyt%2FirgjDJFjGLWG94ak3pDU0EjqAHIZHZKSohYnCZwLQ1IdpQsIzNTSTNzeUJULYP%2FfgVRp%2BoNAKNhIjbY7GKQ96e8jY9bEz4C0zZrecPqAsE9I674WpD25PDea%2BrqW1Zix4BuOu0wc1wVnLgLHHajQBZ5o%2FSoTBzP1VRuvkYm9ZmL9WXhhKK%2BrXqb%2FTqTBhe8ZyWzAetlJf2UYM7gYFuY5DZjnBIPBilf7upUnj8O5qfZ1q3fW1601f1dfuoq4NPNqztT1Xas8zsDftWpQrQtb8Hy1sm71Fbqsd1Xf8tt3%2FwI%3D%3C%2Fdiagram%3E%3C%2Fmxfile%3E)
-
-
-### Задание 2
+### Задание 
 
 ### Алгоритм
 
@@ -114,14 +95,7 @@ int main()
 
 ## Результат работы программы
 
-### Задание 1
-
-**Пример 1: вода находится в состоянии льда**
-
-```text
-Введите температуру воды (в градусах Цельсия): -5
-При температуре -5.00 градусов вода находится в состоянии: ЛЕД
-```
+#
 
 **Пример 2: вода находится в жидком состоянии**
 
